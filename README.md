@@ -12,8 +12,6 @@ Eu sou Paulo Victor, sou nascido e criado em Natal-RN, estou fazendo Bacharelado
 
 Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principalmente quando envolvem a criação de modelos, análise exploratória dos dados e otimização de processos, melhoria contínua . Os assuntos que mais me dedico a estudar são os que envolvem Ciência de Dados, visualização de dados com ferramentas como Power BI e Python, Lean Six Sigma, modelos de Machine Learning, Deep Learning, Web Scraping, Data Storytelling, Visão Computacional e Banco de dados em SQL.
 
-Gosto muito de conhecer novas pessoas, trocar ideias e experiência, sempre visando aprender coisas novas, também realizo trabalhos de freelancer, aplicando na prática conhecimentos que desenvolvo na minha graduação e nos estudos de Ciências de Dados. Sou fascinado pelo mercado de renda variável, onde conheci a análise de dados de empresas usando indicadores fundamentalista da contabilidade e a partir daí fui desenvolvendo cada vez mais meus conhecimentos estatísticos para a resolução de problemas e tomadas de decisão baseada em dados.
-
 **Tecnologias:** Ciência de Dados, visualização de dados com ferramentas como Power BI e Python, Lean Six Sigma, modelos de Machine Learning, Deep Learning, Web Scraping, Data Storytelling, Visão Computacional e Banco de dados em SQL.
 
 **Links:**
