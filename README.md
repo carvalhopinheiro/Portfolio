@@ -17,7 +17,7 @@ Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principal
 **Links:**
 * [Fiverr](https://bityli.com/jjFfCb)
 * [LinkedIn](https://www.linkedin.com/in/paulovictorcp/)
-
+* [Medium](https://medium.com/@carvalhopinheiro)
 
 ## Projetos:
 
