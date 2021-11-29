@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/Autor-carvalhopinheiro-red.svg)](https://www.linkedin.com/in/carvalhopinheiro/) [![](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/)[![contributions welcome](https://img.shields.io/badge/Contribuição-Bem_vindo-brightgreen.svg?style=flat)](https://github.com/carvalhopinheiro/Ciencia-de-Dados/issues)
 
 <p align="center">
-  <img src="Data science (1).png" >
+  <img src="Baner.png" >
 </p>
 
 # Paulo Victor
@@ -19,8 +19,11 @@ Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principal
 * [LinkedIn](https://www.linkedin.com/in/paulovictorcp/)
 * [Medium](https://medium.com/@carvalhopinheiro)
 
+Aqui você encontra alguns dos meus projetos no google colab referente a área de Ciência de dados, na qual uso algumas das bibliotecas mais famosas de Python como Pandas, Matplotlib, seaborn, entre outras. Além de dashboards interativos com Power BI e Python, na qual auxiliam na visualização de dados.
+
 ## Projetos:
 * Analise de Dados Airbnb - Tokyo: https://bityli.com/qaKxdZ
 
 ---
-
+## Dashbords:
+*
