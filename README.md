@@ -1,4 +1,7 @@
-[![author](https://img.shields.io/badge/Autor-carvalhopinheiro-red.svg)](https://www.linkedin.com/in/carvalhopinheiro/) [![](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/)[![contributions welcome](https://img.shields.io/badge/Contribuição-Bem_vindo-brightgreen.svg?style=flat)](https://github.com/carvalhopinheiro/Ciencia-de-Dados/issues)
+<a href='https://www.linkedin.com/in/carvalhopinheiro/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href='https://bityli.com/jjFfCb'><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white"></a> 
+<a href='https://medium.com/@carvalhopinheiro'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p align="center">
   <img src="Baner.png" >
@@ -14,10 +17,6 @@ Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principal
 
 **Tecnologias:** Ciência de Dados, visualização de dados com ferramentas como Power BI e Python, Lean Six Sigma, modelos de Machine Learning, Deep Learning, Web Scraping, Data Storytelling, Visão Computacional e Banco de dados em SQL.
 
-**Links:**
-* [Fiverr](https://bityli.com/jjFfCb)
-* [LinkedIn](https://www.linkedin.com/in/paulovictorcp/)
-* [Medium](https://medium.com/@carvalhopinheiro)
 
 Aqui você encontra alguns dos meus projetos no google colab referente a área de Ciência de dados, na qual uso algumas das bibliotecas mais famosas de Python como Pandas, Matplotlib, seaborn, entre outras. Além de dashboards interativos com Power BI e Python, na qual auxiliam na visualização de dados.
 
@@ -28,5 +27,5 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 ## Dashbords Power BI:
 * Dashbord - Custos: <a href="https://bityli.com/OS2h0C"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 * Dashbord - Receita: <a href="https://bityli.com/KGS8ko"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
-* Dashbord - Logístico: <a href="">https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> 
+* Dashbord - Logístico:<a href="https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 * Dashbord - Projetos Fechados: <a href="https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
