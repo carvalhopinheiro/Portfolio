@@ -29,7 +29,7 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 ## Dashbords Power BI:
 * Dashbord - Custos
 
-           <a href="https://bityli.com/OS2h0C"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> 
+/t<a href="https://bityli.com/OS2h0C"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> 
 * Dashbord - Receita
 
 <a href="https://bityli.com/KGS8ko"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
