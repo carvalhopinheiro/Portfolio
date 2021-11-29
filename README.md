@@ -20,7 +20,7 @@ Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principal
 * [Medium](https://medium.com/@carvalhopinheiro)
 
 ## Projetos:
-* Analise de Dados Airbnb - Tokyo:(https://bityli.com/qaKxdZ)
+* Analise de Dados Airbnb - Tokyo:https://bityli.com/qaKxdZ
 
 ---
 
