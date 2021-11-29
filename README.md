@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/Autor-carvalhopinheiro-red.svg)](https://www.linkedin.com/in/carvalhopinheiro/) [![](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/)[![contributions welcome](https://img.shields.io/badge/Contribuição-Bem_vindo-brightgreen.svg?style=flat)](https://github.com/carvalhopinheiro/Ciencia-de-Dados/issues)
 
 <p align="center">
-  <img src="baanner.png" >
+  <img src="Data science (1).png" >
 </p>
 
 # Paulo Victor
