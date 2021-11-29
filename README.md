@@ -21,7 +21,7 @@ Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principal
 Aqui você encontra alguns dos meus projetos no google colab referente a área de Ciência de dados, na qual uso algumas das bibliotecas mais famosas de Python como Pandas, Matplotlib, seaborn, entre outras. Além de dashboards interativos com Power BI e Python, na qual auxiliam na visualização de dados.
 
 ## Projetos Python:
- <a href='https://bityli.com/qaKxdZ'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> Analise de Dados Airbnb - Tokyo:
+ <a href='https://bityli.com/qaKxdZ'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> Analise de Dados Airbnb - Tokyo
 
 ---
 ## Dashbords Power BI:
@@ -29,6 +29,6 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 
 <a href="https://bityli.com/KGS8ko"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Receita
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> ### Dashbord - Logístico
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> Dashbord - Logístico
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> Dashbord - Projetos Fechados
