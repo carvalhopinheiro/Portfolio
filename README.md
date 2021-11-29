@@ -26,4 +26,7 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 
 ---
 ## Dashbords:
-*
+* Dashbord - Custos: https://bityli.com/OS2h0C
+* Dashbord - Receita: https://bityli.com/KGS8ko
+* Dashbord - Logístico: https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9
+* Dashbord - Projetos Fechados: https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9
