@@ -24,7 +24,9 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 * Analise de Dados Airbnb - Tokyo
 
 <a href='https://bityli.com/qaKxdZ'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> 
+* Panorama do COVID-19 - Brasil e Mundo 
 
+<a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Panorama_do_COVID_19_Brasil.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> 
 ---
 ## Dashbords Power BI:
 * Dashbord - Custos
