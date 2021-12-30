@@ -21,8 +21,13 @@ Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principal
 Aqui você encontra alguns dos meus projetos no google colab referente a área de Ciência de dados, na qual uso algumas das bibliotecas mais famosas de Python como Pandas, Matplotlib, seaborn, entre outras. Além de dashboards interativos com Power BI e Python, na qual auxiliam na visualização de dados.
 
 ## Projetos Python:
-* [Analise de Dados Airbnb - Tokyo](https://bityli.com/qaKxdZ)
-* [Panorama do COVID-19 - Brasil e Mundo](https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Panorama_do_COVID_19_Brasil.ipynb)
+<h3><a href='https://colab.research.google.com/github/carvalhopinheiro/Ciencia-de-Dados/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/analise-de-dados-airbnb-tokyo-regi%C3%A3o-de-kant%C5%8D-bd9d904120cd'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Analise de Dados Airbnb - Tokyo
+<h3>
+<h3><a href='https://colab.research.google.com/github/carvalhopinheiro/Ciencia-de-Dados/blob/main/Panorama_do_COVID_19_Brasil.ipynb#scrollTo=kLI0gJtzDGuQ'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/panorama-do-covid-19-no-brasil-2e18c77ba965'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Panorama do COVID-19 - Brasil e Mundo
+<h3>
+<h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/analise-de-dados-airbnb-tokyo-regi%C3%A3o-de-kant%C5%8D-bd9d904120cd'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Análise de Dados - Empresa de Supermercado
+<h3>
+  
 
 ---
 ## Dashbords Power BI:
