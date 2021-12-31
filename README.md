@@ -25,7 +25,7 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 <h3>
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Panorama_do_COVID_19_Brasil.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/panorama-do-covid-19-no-brasil-2e18c77ba965'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Panorama do COVID-19 - Brasil e Mundo
 <h3>
-<h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/analise-de-dados-airbnb-tokyo-regi%C3%A3o-de-kant%C5%8D-bd9d904120cd'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Análise de Dados - Empresa de Supermercado
+<h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/an%C3%A1lise-de-dados-empresa-de-supermercado-6f05c58c8422'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Análise de Dados - Empresa de Supermercado
 <h3>
   
 
