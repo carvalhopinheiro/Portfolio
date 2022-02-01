@@ -29,6 +29,8 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 <h3>
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d6fbecc93fe8'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Machine Learning - Classificação - Detecção de Fraude em Cartões de Crédito
 <h3>
+<h3><a href='https://github.com/carvalhopinheiro/Portfolio/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Machine Learning - Classificação - Churn Prediction - Empresa de Telecomunicações
+<h3>
 
 ---
 ## Dashbords Power BI:
