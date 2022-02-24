@@ -34,6 +34,7 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 
 ---
 ## Dashbords Power BI:
+* [Dashbord - Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiNmY4Yzk3NGUtMzViOC00OGEyLTg1Y2QtNmFlZjVlNGRmOTQ3IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9)
 * [Dashbord - Custos](https://bityli.com/OS2h0C)
 * [Dashbord - Receita](https://bityli.com/KGS8ko)
 * [Dashbord - Logístico](https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection)
