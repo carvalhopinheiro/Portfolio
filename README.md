@@ -8,17 +8,15 @@
 </p>
 
 # Paulo Victor
-<sub>*Ciencia de dados e Engenharia de Produção*</sub>
+<sub>*Business Intelligence | Data Science | Engenharia de Produção*</sub>
 
 ### Sobre mim:
 Eu sou Paulo Victor, sou nascido e criado em Natal-RN, estou fazendo Bacharelado em Engenharia de Produção pela Universidade Federal do Rio Grande do Norte, sou Oficial R/2 do Exército Brasileiro da Arma de Infantaria.
 
-Meu maior foco é SOLUCIONAR PROBLEMAS, sendo eles de mercado ou não, principalmente quando envolvem a criação de modelos, análise exploratória dos dados e otimização de processos, melhoria contínua, Lean Six Sigma. Os assuntos que mais me dedico a estudar são os que envolvem Ciência de Dados, visualização de dados com ferramentas como Power BI e Python, modelos de Machine Learning, Deep Learning, Web Scraping, Data Storytelling, Visão Computacional e Banco de dados em SQL.
-
-**Tecnologias:** Ciência de Dados, visualização de dados com ferramentas como Power BI e Python, Lean Six Sigma, modelos de Machine Learning, Deep Learning, Web Scraping, Data Storytelling, Visão Computacional e Banco de dados em SQL.
+Meu maior foco é solucionar problemas, sendo eles de mercado ou não, principalmente quando envolvem tomada de decisão baseada em dados, visualização dos dados, BI, otimização de processos, melhoria contínua, Lean Six Sigma. Os assuntos que mais me dedico a estudar são os que envolvem análise exploratória, visualização de dados com Data Storytelling, ferramentas de BI como Power BI, Banco de dados em SQL, Ciência de Dados e analise preditiva com Python com modelos de Machine Learning, Deep Learning, Visão Computacional. E extração de dados com Web Scraping
 
 
-Aqui você encontra alguns dos meus projetos no google colab referente a área de Ciência de dados, na qual uso algumas das bibliotecas mais famosas de Python como Pandas, Matplotlib, seaborn, entre outras. Além de dashboards interativos com Power BI e Python, na qual auxiliam na visualização de dados.
+Aqui você encontra alguns dos meus projetos no Google colab referente a área de Data Analytics, Data Science e Business Intelligence.
 
 ## Análise de Dados:
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/analise-de-dados-airbnb-tokyo-regi%C3%A3o-de-kant%C5%8D-bd9d904120cd'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Analise de Dados - Airbnb Tokyo
@@ -27,18 +25,22 @@ Aqui você encontra alguns dos meus projetos no google colab referente a área d
 <h3>
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/an%C3%A1lise-de-dados-empresa-de-supermercado-6f05c58c8422'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Análise de Dados - Empresa de Supermercado
 <h3>
-  ## Machine Learning - Classificação
+  
+## Machine Learning - Classificação
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d6fbecc93fe8'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Machine Learning - Classificação - Detecção de Fraude em Cartões de Crédito
 <h3>
 <h3><a href='https://github.com/carvalhopinheiro/Portfolio/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/churn-prediction-taxa-de-rotatividade-b6c824b327fb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Machine Learning - Classificação - Churn Prediction - Empresa de Telecomunicações
 <h3>
 
 ## Dashbords com Power BI:
-* [Dashbord - Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiNmY4Yzk3NGUtMzViOC00OGEyLTg1Y2QtNmFlZjVlNGRmOTQ3IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9)
-* [Dashbord - Custos](https://bityli.com/OS2h0C)
-* [Dashbord - Receita](https://bityli.com/KGS8ko)
-* [Dashbord - Logístico](https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection)
-* [Dashbord - Projetos Fechados](https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9)
+<h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNmY4Yzk3NGUtMzViOC00OGEyLTg1Y2QtNmFlZjVlNGRmOTQ3IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Recursos Humanos<h3>
 
+<h3><a href="https://bityli.com/OS2h0C"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Custos<h3> 
+  
+<h3><a href="https://bityli.com/KGS8ko"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Receita<h3> 
+  
+<h3><a href="https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Logístico<h3> 
+  
+ <h3><a href="https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Projetos Fechados<h3> 
 
 
