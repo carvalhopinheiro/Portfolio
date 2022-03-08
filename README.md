@@ -36,11 +36,7 @@ Aqui você encontra alguns dos meus projetos no Google colab referente a área d
 <h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNzA4NWViY2UtMjA0YS00NjI5LWEwMDItMjYxNjA1ZWExZmY3IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Vendas<h3>  
   
 <h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNmY4Yzk3NGUtMzViOC00OGEyLTg1Y2QtNmFlZjVlNGRmOTQ3IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Recursos Humanos<h3>
-
-<h3><a href="https://bityli.com/OS2h0C"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Custos<h3> 
   
-<h3><a href="https://app.powerbi.com/view?r=eyJrIjoiOGIwMjJhZTAtNTgwOS00NTE2LThhYjQtMDIzYzNhMWQ5NWQ4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Logístico<h3> 
-  
- <h3><a href="https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Projetos Fechados<h3> 
+<h3><a href="https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Projetos Fechados<h3> 
 
 
