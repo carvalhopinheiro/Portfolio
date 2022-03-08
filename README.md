@@ -13,7 +13,7 @@
 ### Sobre mim:
 Eu sou Paulo Victor, sou nascido e criado em Natal-RN, estou fazendo Bacharelado em Engenharia de Produção pela Universidade Federal do Rio Grande do Norte, sou Oficial R/2 do Exército Brasileiro da Arma de Infantaria.
 
-Meu maior foco é solucionar problemas, sendo eles de mercado ou não, principalmente quando envolvem tomada de decisão baseada em dados, visualização dos dados, BI, otimização de processos, melhoria contínua, Lean Six Sigma. Os assuntos que mais me dedico a estudar são os que envolvem análise exploratória, visualização de dados com Data Storytelling, ferramentas de BI como Power BI, Banco de dados em SQL, Ciência de Dados e analise preditiva com Python com modelos de Machine Learning, Deep Learning, Visão Computacional. E extração de dados com Web Scraping
+Meu maior foco é solucionar problemas, sendo eles de mercado ou não, principalmente quando envolvem tomada de decisão baseada em dados, visualização dos dados, BI, otimização de processos, melhoria contínua, Lean Six Sigma. Os assuntos que mais me dedico a estudar são os que envolvem análise exploratória, visualização de dados com Data Storytelling, ferramentas de BI como Power BI, Banco de dados em SQL, Ciência de Dados e analise preditiva com Python com modelos de Machine Learning, Deep Learning, Visão Computacional. E extração de dados com Web Scraping.
 
 
 Aqui você encontra alguns dos meus projetos no Google colab referente a área de Data Analytics, Data Science e Business Intelligence.
