@@ -8,7 +8,7 @@
 </p>
 
 # Paulo Victor
-<sub>*Business Intelligence | Data Science | Engenharia de Produção*</sub>
+<sub>*Data Analysis | Business Intelligence | Data Science | Engenharia de Produção*</sub>
 
 ### Sobre mim:
 Eu sou Paulo Victor, sou nascido e criado em Natal-RN, estou fazendo Bacharelado em Engenharia de Produção pela Universidade Federal do Rio Grande do Norte, sou Oficial R/2 do Exército Brasileiro da Arma de Infantaria.
