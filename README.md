@@ -4,7 +4,7 @@
 <a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p align="center">
-  <img src="Banner.png" >
+  <img src="banner.png" >
 </p>
 
 # Paulo Victor
