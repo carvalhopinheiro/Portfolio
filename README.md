@@ -11,10 +11,13 @@
 <sub>*Data Analysis | Business Intelligence | Data Science | Engenharia de Produção*</sub>
 
 ### Sobre mim:
-Eu sou Paulo Victor, sou nascido e criado em Natal-RN, estou fazendo Bacharelado em Engenharia de Produção pela Universidade Federal do Rio Grande do Norte, sou Oficial R/2 do Exército Brasileiro da Arma de Infantaria.
+Eu sou Paulo Victor, estou fazendo Bacharelado em Engenharia de Produção pela Universidade Federal do Rio Grande do Norte, sou Oficial R/2 do Exército Brasileiro da Arma de Infantaria.
 
-Meu maior foco é solucionar problemas, sendo eles de mercado ou não, principalmente quando envolvem tomada de decisão baseada em dados, visualização dos dados, BI, otimização de processos, melhoria contínua, Lean Six Sigma. Os assuntos que mais me dedico a estudar são os que envolvem análise exploratória, visualização de dados com Data Storytelling, ferramentas de BI como Power BI, Banco de dados em SQL, Ciência de Dados e analise preditiva com Python com modelos de Machine Learning, Deep Learning, Visão Computacional. E extração de dados com Web Scraping.
+Apaixonado pelo universo de dados, resolução de problemas e Data Driven. Dedico meus estudos, em 4 grandes áreas: MInha própria Graduação, Assuntos relacionados a banco de dados, Inteligência de negócios  e ciência de dados. Além disso, já desenvolvo alguns trabalhos como freelancer nessas áreas, utilizando SQL, Power Bi e Python.
 
+Meu Objetivo Hard Skill na área de dados é obter melhores experiências aonde quer que eles sejam aplicados, para isso tenho um Portfólio sobre os assuntos que venho estudando. Atualmente conta com Projetos de Análise de dados com python, Dashboards e Modelo de Machine Learning, a qual Desenvolvo Processos de ETL, Modelagem de Dados, Storytelling, Linguagem DAX e Python, Modelos de ML com Classificação entre outros assuntos. 
+
+Também, Gosto de conhecer novas pessoas e trocar conhecimento e experiência, sempre visando aprender coisas novas, além de desenvolver minhas habilidades de oratória e comunicação, como também meu pensamento analítico, também gosto de escrever em meu blog e divulgar o meu conhecimento.
 
 Aqui você encontra alguns dos meus projetos no Google colab referente a área de Data Analytics, Data Science e Business Intelligence.
 
