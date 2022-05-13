@@ -38,7 +38,7 @@ Aqui você encontra alguns dos meus projetos no Google colab referente a área d
 ## Dashbords com Power BI:
  <h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNzEyNjZiY2YtZTQwMS00MWI5LWJjYmUtZWVkZWU5YmUxOGQ5IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Recursos Humanos<h3>
   
-<h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNzA4NWViY2UtMjA0YS00NjI5LWEwMDItMjYxNjA1ZWExZmY3IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection01a69d7778aaef8806d7"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Vendas<h3>  
+<h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNWU5NjM4MjQtYWRkMS00ZGZhLTk5YTQtMWM3NzdhOGI1NmM0IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Vendas<h3>  
   
 <h3><a href="https://app.powerbi.com/view?r=eyJrIjoiMDZhZjc4NjctNTI5Yy00ODU4LTk3ODctYTc4MTJkYTRkNGU4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9"><img height= "23px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  Dashbord - Projetos Fechados<h3> 
 
