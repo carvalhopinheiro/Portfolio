@@ -11,13 +11,13 @@
 <sub>*Data Analysis | Business Intelligence | Data Science | Engenharia de Produção*</sub>
 
 ### Sobre mim:
-Eu sou Paulo Victor, estou fazendo Bacharelado em Engenharia de Produção pela Universidade Federal do Rio Grande do Norte, sou Oficial R/2 do Exército Brasileiro da Arma de Infantaria.
+Olá, seja bem-vindo ao meu perfil!
 
-Apaixonado pelo universo de dados, resolução de problemas e Data Driven. Dedico meus estudos, em 4 grandes áreas: MInha própria Graduação, Assuntos relacionados a banco de dados, Inteligência de negócios  e ciência de dados. Além disso, já desenvolvo alguns trabalhos como freelancer nessas áreas, utilizando SQL, Power Bi e Python.
+Meu nome é Paulo Victor, sou estudante de Engenharia de Produção na Universidade Federal do Rio Grande do Norte e atualmente estagio na Contour Global, empresa de energia renovável. Além disso, sou oficial R/2 do Exército Brasileiro.
 
-Meu Objetivo Hard Skill na área de dados é obter melhores experiências aonde quer que eles sejam aplicados, para isso tenho um Portfólio sobre os assuntos que venho estudando. Atualmente conta com Projetos de Análise de dados com python, Dashboards e Modelo de Machine Learning, a qual Desenvolvo Processos de ETL, Modelagem de Dados, Storytelling, Linguagem DAX e Python, Modelos de ML com Classificação entre outros assuntos. 
+Sou apaixonado pelo Movimento Empresa Júnior e tive a oportunidade de participar da Produtiva Júnior, a maior empresa júnior do Rio Grande do Norte. Essa experiência foi fundamental para o meu desenvolvimento profissional, pois pude participar de diversos eventos e me inserir no mundo do empreendedorismo nacional.
 
-Também, Gosto de conhecer novas pessoas e trocar conhecimento e experiência, sempre visando aprender coisas novas, além de desenvolver minhas habilidades de oratória e comunicação, como também meu pensamento analítico, também gosto de escrever em meu blog e divulgar o meu conhecimento.
+Sou entusiasta por dados, inteligência de negócios e ciência de dados, e dedico meus estudos e trabalhos nestas áreas. Tenho experiência em SQL, Power BI e Python, e já apliquei meus conhecimentos em projetos de consultoria empresarial e freelancer, transformando dados em soluções para melhorar a realidade das pessoas. Tenho um portfólio que destaca esses trabalhos e habilidades.
 
 Aqui você encontra alguns dos meus projetos no Google colab referente a área de Data Analytics, Data Science e Business Intelligence.
 
