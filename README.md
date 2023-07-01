@@ -4,11 +4,11 @@
 <a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner.jpg" >
 </p>
 
 # Paulo Victor
-<sub>*Data Analysis | Business Intelligence | Data Science | Engenharia de Produção*</sub>
+<sub>*Data Analytics | Machine Learning | Python | Excel | Power Bi | Engenharia de Produção*</sub>
 
 ### Sobre mim:
 Olá, seja bem-vindo ao meu perfil!
@@ -17,9 +17,9 @@ Meu nome é Paulo Victor, sou estudante de Engenharia de Produção na Universid
 
 Sou apaixonado pelo Movimento Empresa Júnior e tive a oportunidade de participar da Produtiva Júnior, a maior empresa júnior do Rio Grande do Norte. Essa experiência foi fundamental para o meu desenvolvimento profissional, pois pude participar de diversos eventos e me inserir no mundo do empreendedorismo nacional.
 
-Sou entusiasta por dados, inteligência de negócios e ciência de dados, e dedico meus estudos e trabalhos nestas áreas. Tenho experiência em SQL, Power BI e Python, e já apliquei meus conhecimentos em projetos de consultoria empresarial e freelancer, transformando dados em soluções para melhorar a realidade das pessoas. Tenho um portfólio que destaca esses trabalhos e habilidades.
+Tenho experiência em Python, Power BI, Automação de Processos e Relatórios, SQL entre outros, já apliquei meus conhecimentos em projetos de consultoria empresarial, e conduzi projetos de dados para mais de 40 clientes entre ele, uma plataforma de estudo com mais de 1.000 alunos. transformando dados em soluções para melhorar a realidade das pessoas. 
 
-Aqui você encontra alguns dos meus projetos no Google colab referente a área de Data Analytics, Data Science e Business Intelligence.
+Agradeço pela sua atenção!
 
 ## Análise de Dados:
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/analise-de-dados-airbnb-tokyo-regi%C3%A3o-de-kant%C5%8D-bd9d904120cd'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Analise de Dados - Airbnb Tokyo
